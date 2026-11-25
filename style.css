@@ -1,0 +1,42 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 30px;
+}
+
+.resume {
+    background-color: rgb(141, 190, 231);
+    width: 700px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: #020b16;
+}
+.role {
+    text-align: center;
+    color: #0a0a0a;
+}
+
+h2 {
+    color: #024613;
+    border-bottom: 2px solid #2563eb;
+    padding-bottom: 5px;
+}
+p {
+    color: #110101;
+    line-height: 1.6;
+}
+
+ul {
+    line-height: 1.8;
+}
+
+hr {
+    border: 1px solid #ddd;
+}
